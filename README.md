@@ -13,5 +13,5 @@ cmd: py cases_handler.py
 Output: 
 :Duplicate Found:
 -  ---------  -----------  -------  --  ------------  -------------  ----------
-9  May14-B02  14-May-2021  9:14 AM  55  kaleema banu  2952512297946  7019559219
+9  May14-xxx  14-May-2021  9:14 AM  xx  xxxxxxxxxxxx  xxxxxxxxxxxxx  xxxxxxxxxxx
 -  ---------  -----------  -------  --  ------------  -------------  ----------
