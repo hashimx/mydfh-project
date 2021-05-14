@@ -7,7 +7,8 @@ This project is based on the write up available here: https://www.analyticsvidhy
 if you wish to run the py file. place the json and the .py file in the same location and make sure you have given access to service account from your google sheets. 
 
 Platform: Windows 10
-Run using : py cases_handler.py
+
+cmd: py cases_handler.py
 
 Output: 
 :Duplicate Found:
