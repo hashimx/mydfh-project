@@ -38,7 +38,10 @@ class Cases:
         # Sheet indexes, can vary based on sheet
         opened, closed = 1, 2
         open_index_string , close_index_string = "Please check UnAssigned sheet as well", "SRFID"
+
+        # Get all open Cases
         open_cases = self.sheet.get_worksheet(opened)
+        # Get all closed Cases
         closed_cases = self.sheet.get_worksheet(closed)
 
         # Convert to Data Frames
